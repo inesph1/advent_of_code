@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
-public class Diciembre_4_segundo_intento {
+public class Diciembre_4 {
 
 	public static int calcularEjeHorizontal(int ejeX, int ejeY, int contador, char celdas[][]) {
 		if (ejeY < 3) {
