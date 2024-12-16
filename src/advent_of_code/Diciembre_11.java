@@ -1,12 +1,8 @@
 package advent_of_code;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
+
 
 public class Diciembre_11 {
 
@@ -69,7 +65,7 @@ public class Diciembre_11 {
 			}
 
 			contador++;
-		} while (contador <= 24);
+		} while (contador <= 74);
 
 		System.out.println("TAMANO " + arreglo.size());
 
